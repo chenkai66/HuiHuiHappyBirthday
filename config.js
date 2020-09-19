@@ -16,9 +16,9 @@ var config = {
     imgs: {
         "林宗慧小朋友": "./imgs/B612Kaji_20200825_204954_347.jpg",
         "今天是你的生日": "./imgs/mtq1.jpg",
-        "你愿意吗": "./img/mtq2.jpg",
         "明年的生日": "./img/beauty2.png",
         "以后的生日": "./img/beauty1.png",
+        "你愿意吗": "./img/mtq2.jpg"
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
