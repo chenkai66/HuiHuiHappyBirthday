@@ -16,13 +16,15 @@ var config = {
     imgs: {
         "林宗慧小朋友": "./imgs/B612Kaji_20200825_204954_347.jpg",
         "今天是你的生日": "./imgs/mtq1.jpg",
-        "你愿意吗": "./img/mtq2.jpg"
+        "你愿意吗": "./img/mtq2.jpg",
+        "明年的生日": "./img/beauty2.png",
+        "以后的生日": "./img/beauty1.png",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "准备好了嘛，那我们开始了哦",
         play: "Music",
-        bannar_coming: "颜色好像单调了点哦",
+        bannar_coming: "祝灰灰仔灰灰小可爱生日快乐呀",
         balloons_flying: "是不是少点东西呀，点一点我呗",
         cake_fadein: "灰灰仔想不想吃蛋糕呀",
         light_candle: "你点个蜡烛呗",
