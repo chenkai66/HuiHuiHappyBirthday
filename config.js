@@ -27,7 +27,7 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "准备好了嘛，那我们开始了哦",
-        play: "Music",
+        play: "建议打开音效食用哦",
         bannar_coming: "祝灰灰仔生日快乐呀",
         balloons_flying: "是不是少点东西呀，点一点我呗",
         cake_fadein: "灰灰仔想不想吃蛋糕呀",
